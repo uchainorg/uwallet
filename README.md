@@ -1,2 +1,2 @@
 # uwallet
-your new wallet
+Your exclusive wallet
